@@ -11,3 +11,5 @@ chromadb
 sentence_transformers
 langchain_chroma
 langchain_huggingface
+arxiv
+wikipedia
